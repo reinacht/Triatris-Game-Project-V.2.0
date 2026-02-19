@@ -1,0 +1,7 @@
+pyinstaller --onefile --noconsole --name Triatris --icon=assets/img/icon/icon_256.ico --add-data "assets;assets" --add-data "Shapes;Shapes" main.py
+
+command for build .exe
+if u wanna try it, copy + paste and open terminal (ctrl + shift + `)
+
+note : ensure that u have already pip install pyinstaller first
+note : move out this folder into singular folder, then open in vscode with folder "File Source Code"
