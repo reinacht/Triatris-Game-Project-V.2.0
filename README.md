@@ -8,5 +8,5 @@ Game mechanism:
 - Have fun
 
 Changelog V.2.0 :
-- Fix score bug (when the game is closed, the db cant connect to the game at the V.1.0B)
+- Fix score bug (when the game is closed, the db cant connect to the game at the V.1.0B)           
 NOTE : Please build your own Triatris.exe from the instructions in (read the command.txt)
