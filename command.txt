@@ -4,4 +4,4 @@ command for build .exe
 if u wanna try it, copy + paste and open terminal (ctrl + shift + `)
 
 note : ensure that u have already pip install pyinstaller first
-note : move out this folder into singular folder, then open in vscode with folder "File Source Code"
+note : download and extract this zip file, then open terminal and run the command above
